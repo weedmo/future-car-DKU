@@ -1,0 +1,36 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+*.bak
+*.tmp
+*.swp
+
+# Exclude all .pt files, but include specific ones if needed
+*.pt
+
+*.bag

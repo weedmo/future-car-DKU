@@ -1,0 +1,9 @@
+<launch>
+  <arg name="mode" default="1" />
+  <node name="roi" pkg="rocketdan" type="node_roi_parking.py" output="screen" >
+    <param name="mode" value="$(arg mode)" />
+  </node>
+  <node name="node_parking" pkg="rocketdan" type="node_parking.py" output="screen">
+    <param name="mode" value="$(arg mode)" />
+  </node>
+</launch>

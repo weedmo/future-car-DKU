@@ -1,0 +1,17 @@
+<launch>
+    <arg name="mode" default="1" />
+    <node name="lane_detector" pkg="rocketdan" type="node_lane_detector.py" output="screen">
+        <param name="weight" value="weights/yololane_n_240804.pt" />
+        <param name="lane_width" value="560" />
+        <param name="draw" value="true" />
+        <param name="verbose" value="false" />
+        <param name="cam_topic" value="/usb_cam_lane/image_raw/compressed" />
+        <param name="crosswalk_mode" value="true" />
+    </node>
+    <node name="obs_detector" pkg="rocketdan" type="node_obstacle_detector.py" output="screen"/>
+    <node name="lane_follower" pkg="rocketdan" type="node_lane_follower.py" output="screen"/>
+
+    <node name="mission_driver" pkg="rocketdan" type="node_mission_driver.py" output="screen">
+        <param name="mode" value="$(arg mode)" />
+    </node>
+</launch>
