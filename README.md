@@ -3,13 +3,27 @@
 This repository contains the autonomous driving code and mission logic developed for the **3rd Future Automotive Autonomous Driving Competition**, hosted in 2024.  
 The challenge involved completing multiple mission stages using a limited set of sensors under strict environmental and timing conditions.
 
-🔗 GitHub Repo: https://github.com/weedmo/future-car-dankook-univ
+---
+
+## 🏆 Award & Media Coverage
+
+🥉 **Bronze Prize Winner** – 3rd Future Automotive Autonomous Driving Competition (2024)
+
+📸 Featured in Dankook University News:  
+[Click to read full article (Korean)](https://www.dankook.ac.kr/web/kor/dku-today?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=790642)
+
+> "Even though we didn't modify the motor output like other teams did, we safely completed every mission with a stable system. That’s something we’re truly proud of."  
+> — From the team interview in the DKU article
+
+![Award Ceremony](https://path-to-your-award-photo-if-you-have-it.jpg) <!-- 이미지가 깃허브에 올라온 경우 -->
+
 
 ---
 
 ## 🎯 Overview
 
 This competition limited the type and number of sensors available for all teams.
+![KakaoTalk_20250307_190416478](https://github.com/user-attachments/assets/fb57aef1-c4dc-4b06-a1dd-5e2f508bbdcf)
 
 - **Allowed Sensors**:
   - 1 × LiDAR
