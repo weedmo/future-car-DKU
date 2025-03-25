@@ -15,7 +15,8 @@ The challenge involved completing multiple mission stages using a limited set of
 > "Even though we didn't modify the motor output like other teams did, we safely completed every mission with a stable system. That’s something we’re truly proud of."  
 > — From the team interview in the DKU article
 
-![Award Ceremony](https://path-to-your-award-photo-if-you-have-it.jpg) <!-- 이미지가 깃허브에 올라온 경우 -->
+![Award Ceremony](![image](https://github.com/user-attachments/assets/9c8c43d7-a073-46d1-bc6d-566f58af7d9b)
+) <!-- 이미지가 깃허브에 올라온 경우 -->
 
 
 ---
