@@ -81,17 +81,26 @@ Instead, we:
 
 ## 🎬 Demo Videos
 
-<p align="center">
-  <a href="https://youtu.be/FwGlec1eLXw?t=3596" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="45%">
-    <p align="center"><strong>▶️ Basic Driving Mission<br>(Starts at 59:56)</strong></p>
-  </a>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://youtu.be/FwGlec1eLXw?t=3596" target="_blank">
+      <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="360">
+    </a>
+    <br>
+    <strong>▶️ Basic Driving Mission</strong><br>
+    <span>(Starts at 59:56)</span>
+  </span>
 
-  <a href="https://youtu.be/FwGlec1eLXw?t=7067" target="_blank">
-    <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="45%">
-    <p align="center"><strong>▶️ Mission Execution<br>(Obstacle, Traffic Light, Parking)<br>(Starts at 1:57:47)</strong></p>
-  </a>
+  <span style="display: inline-block; text-align: center;">
+    <a href="https://youtu.be/FwGlec1eLXw?t=7067" target="_blank">
+      <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="360">
+    </a>
+    <br>
+    <strong>▶️ Mission Execution</strong><br>
+    <span>(Obstacle, Traffic Light, Parking)<br>(Starts at 1:57:47)</span>
+  </span>
 </p>
+
 
 ---
 
