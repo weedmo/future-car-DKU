@@ -81,13 +81,17 @@ Instead, we:
 
 ## 🎬 Demo Videos
 
-### ▶️ Basic Driving Mission  
-[![Watch Basic Driving](https://img.youtube.com/vi/FwGlec1eLXw/0.jpg)](https://youtu.be/FwGlec1eLXw?t=3596)  
-> Starts at 59:56
+<p align="center">
+  <a href="https://youtu.be/FwGlec1eLXw?t=3596" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="45%">
+    <p align="center"><strong>▶️ Basic Driving Mission<br>(Starts at 59:56)</strong></p>
+  </a>
 
-### ▶️ Mission Execution (Obstacle, Traffic Light, Parking)  
-[![Watch Mission Driving](https://img.youtube.com/vi/FwGlec1eLXw/0.jpg)](https://youtu.be/FwGlec1eLXw?t=7067)  
-> Starts at 1:57:47
+  <a href="https://youtu.be/FwGlec1eLXw?t=7067" target="_blank">
+    <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="45%">
+    <p align="center"><strong>▶️ Mission Execution<br>(Obstacle, Traffic Light, Parking)<br>(Starts at 1:57:47)</strong></p>
+  </a>
+</p>
 
 ---
 
