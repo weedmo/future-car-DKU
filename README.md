@@ -81,25 +81,31 @@ Instead, we:
 
 ## 🎬 Demo Videos
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <span style="display: inline-block; text-align: center;">
+<!-- 전체를 감싸는 컨테이너 (flex) -->
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+  <!-- 첫 번째 썸네일+텍스트 묶음 -->
+  <div style="text-align: center;">
     <a href="https://youtu.be/FwGlec1eLXw?t=3596" target="_blank">
-      <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="360">
+      <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="350" alt="Basic Driving Mission">
     </a>
     <br>
     <strong>▶️ Basic Driving Mission</strong><br>
     <span>(Starts at 59:56)</span>
-  </span>
+  </div>
 
-  <span style="display: inline-block; text-align: center;">
+  <!-- 두 번째 썸네일+텍스트 묶음 -->
+  <div style="text-align: center;">
     <a href="https://youtu.be/FwGlec1eLXw?t=7067" target="_blank">
-      <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="360">
+      <img src="https://img.youtube.com/vi/FwGlec1eLXw/0.jpg" width="350" alt="Mission Execution">
     </a>
     <br>
     <strong>▶️ Mission Execution</strong><br>
     <span>(Obstacle, Traffic Light, Parking)<br>(Starts at 1:57:47)</span>
-  </span>
-</p>
+  </div>
+
+</div>
+
 
 
 ---
